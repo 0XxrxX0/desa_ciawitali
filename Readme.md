@@ -9,7 +9,6 @@ Dashboard interaktif untuk memvisualisasikan data **Survey Kepuasan Masyarakat**
 ## 🌟 Fitur Utama
 
 * **🟢 Live Data Integration:** Terhubung langsung dengan Google Sheets. Data akan terupdate otomatis setiap 60 detik begitu ada responden baru yang mengisi kuesioner.
-* **🛡️ Auto-Fallback System:** (Fitur Ketahanan) Jika koneksi internet mati atau link Google Sheet bermasalah, aplikasi otomatis beralih menggunakan data cadangan lokal (`.csv`) tanpa *crash*.
 * **🧹 Smart Data Cleaning:**
     * Membersihkan penulisan pekerjaan yang tidak standar (misal: "petani", "Petani ", "PETANI").
     * Mengelompokkan pekerjaan minoritas menjadi kategori "Lainnya" agar grafik tetap rapi.
