@@ -51,11 +51,6 @@ Pastikan kamu sudah menginstal Python di komputermu.
     GOOGLE_SHEET_URL = "paste_link_disini"
     ```
 
-### Menggunakan File Lokal (Offline)
-1.  Simpan file CSV di folder yang sama dengan `app.py`.
-2.  Beri nama file: `Survey Kepuasan Masyarakat.csv`.
-3.  Aplikasi akan otomatis menggunakannya jika internet mati.
-
 ## 📸 Preview
 
 Dashboard mencakup metrik utama seperti:
